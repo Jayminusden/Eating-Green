@@ -1,0 +1,39 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  border:5px dotted  #541215;
+  color:#000000;
+  padding:10px;
+  text-align:center;
+  font-family:'Times New Roman', Times, serif
+}
+
+body{
+  background-color:#1fd17e;
+  color:#368168;
+  text-align:center;
+}
+
+h2{
+  border:3px solid black;
+  padding: 5px;
+}
+
+.veganh1{
+  color: #000000;
+  font-family:'Courier New', Courier, monospace
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+}
+
+
+img{
+  width: 40%;
+  border:5px;
+}
